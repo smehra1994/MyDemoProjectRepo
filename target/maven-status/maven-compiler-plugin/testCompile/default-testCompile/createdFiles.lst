@@ -1,0 +1,4 @@
+com\crm\qa\testcases\RegisterPageTest.class
+com\crm\qa\testcases\HotelPageTest.class
+com\crm\qa\testcases\LoginPageTest.class
+com\crm\qa\testcases\FlightsPageTest.class
